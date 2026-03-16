@@ -135,7 +135,7 @@ El repositorio contiene los siguientes archivos principales:
 rentabilidad_inversiones_argentina_con_riesgo_pais.csv  
 Dataset con la información histórica utilizada en el análisis.
 
-analisis_inversiones.ipynb  
+InversionesArgentina final.ipynb  
 Notebook que contiene todo el proceso de análisis exploratorio, modelado y evaluación de los resultados.
 
 README.md  
